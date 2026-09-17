@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Stelios 👋
 
-<!--
-**steliosmdev/steliosmdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student interested in:
 
-Here are some ideas to get you started:
+* 🌐 Networking
+* 🔐 Cybersecurity
+* 💻 Software Development
+* 🛠️ IT & Troubleshooting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning and building projects with:
+
+* **Networking:** Cisco Packet Tracer, Wireshark
+* **Programming:** Python
+* **Systems:** Linux, Windows, VMs
+* **Cybersecurity:** Networking security fundamentals
+
+📫 GitHub: https://github.com/steliosmdev - 
+𝕏: https://x.com/steliosmdev
