@@ -14,5 +14,4 @@ Currently learning and building projects with:
 * **Systems:** Linux, Windows, VMs
 * **Cybersecurity:** Networking security fundamentals
 
-📫 GitHub: https://github.com/steliosmdev - 
-𝕏: https://x.com/steliosmdev
+📫 GitHub: https://github.com/steliosmdev
